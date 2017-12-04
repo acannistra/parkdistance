@@ -3,9 +3,9 @@ channels:
 - conda-forge
 - defaults
 dependencies:
-  -geopandas
-  -cartopy
-  -shapely
-  -networkx
-  -folium
+  - geopandas
+  - cartopy
+  - shapely
+  - networkx
+  - folium
 
