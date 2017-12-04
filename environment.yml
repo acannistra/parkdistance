@@ -3,11 +3,11 @@ channels:
 - conda-forge
 - defaults
 dependencies:
--geopandas
--cartopy
--shapely
--networkx
--folium
+  -geopandas
+  -cartopy
+  -shapely
+  -networkx
+  -folium
 - pip:
   - backports.functools-lru-cache==1.4
   - geojson==2.3.0
