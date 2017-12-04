@@ -8,11 +8,4 @@ dependencies:
   -shapely
   -networkx
   -folium
-- pip:
-  - backports.functools-lru-cache==1.4
-  - geojson==2.3.0
-  - html2text==2017.10.4
-  - ipython-genutils==0.2.0
-  - jupyter-client==5.1.0
-  - jupyter-console==5.2.0
-  - jupyter-core==4.4.0
+
